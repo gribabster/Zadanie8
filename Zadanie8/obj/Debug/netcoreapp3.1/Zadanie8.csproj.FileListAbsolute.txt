@@ -1,0 +1,4 @@
+C:\Users\Vfrhjc\source\repos\Zadanie8\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.csprojAssemblyReference.cache
+C:\Users\Vfrhjc\source\repos\Zadanie8\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.csproj.CoreCompileInputs.cache
+C:\Users\Vfrhjc\source\repos\Zadanie8\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.AssemblyInfoInputs.cache
+C:\Users\Vfrhjc\source\repos\Zadanie8\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.AssemblyInfo.cs
